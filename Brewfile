@@ -90,14 +90,5 @@ cask "slack"
 cask "libreoffice"
 cask "google-chrome"
 cask "docker"
+cask "visual-studio-code"
 # cask "dropbox"
-# mas "GravitDesigner", id: 1207744923
-# mas "Keynote", id: 409183694
-# mas "Kindle", id: 405399194
-# mas "Numbers", id: 409203825
-# mas "Pages", id: 409201541
-# mas "Pixelmator", id: 407963104
-# mas "Textual", id: 896450579
-mas "Xcode", id: 497799835
-mas "Evernote", id: 406056744
-mas "Slack", id: 803453959
